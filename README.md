@@ -2,7 +2,7 @@
 Ini adalah contoh sederhana bagaimana membuat font .mtz dengan font kesukaan kakak sendiri.<br />
 Kakak hanya membutuhkan 1 buah file <code>.ttf</code> font kesukaan kakak dan di namai menjadi <code>Roboto-Regular.ttf</code><br />
 Setelah itu kakak bisa clone atau <a href="https://github.com/mifansindonesia/miui-font-sample/archive/master.zip">unduh master.zip</a> repositrory ini untuk membuatnya<br />
-Lakukan edit <code>description.xml</code> lalu copy & replace font yang kakak namai tadi .ttf di dalam folder <code>/fonts</code></code>
+Lakukan edit <code>description.xml</code> lalu copy & replace font yang kakak namai tadi .ttf di dalam folder <code>/fonts</code><br />
 Di dalam folder <b>miui-font-sample</b> kakak bisa zip dan ganti .zip menjadi .mtz untuk di impor di apl Tema miui kakak<br /><br />
 
 ##Isi .zip (.mtz)
@@ -25,6 +25,7 @@ Kakak bisa undu di dafont atau gunakan google font, atau kakak bisa ambil font n
 Jika kakak kesulitan kakak juga bisa menggunakan tools apk yang bisa langsung membuat font.mtz di android kakak, kakak bisa unduh dan baca tutorialnya
 di <a href="https://mifans.web.id/t/326">forum.mifans.web.id/t/326</a>
 <br />
+#Contoh hasil
+Hasil font repository ini bisa kakak unduh <a href="https://github.com/mifansindonesia/miui-font-sample/releases/download/1.0/miui-qlassik-font.mtz">di sini</a>.<br />
 Terimakasih & Regards<br />
 Miya
-
