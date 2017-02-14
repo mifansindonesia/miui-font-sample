@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><theme>
+<version><![CDATA[1.0]]></version>
+<uiVersion>4</uiVersion>
+<author><![CDATA[Miy_a]]></author>
+<designer><![CDATA[Miy_a]]></designer>
+<title><![CDATA[Qlassik]]></title>
+<description><![CDATA[Hanya contoh membuat font mtz untuk miui rom]]></description>
+<authors>
+<author locale="id_IN"><![CDATA[Borneo]]></author>
+</authors>
+<designers>
+<designer locale="id_IN"><![CDATA[Indonesia]]></designer>
+</designers>
+<titles>
+<title locale="id_IN"><![CDATA[Indonesia]]></title>
+</titles>
+<descriptions>
+<description locale="id_IN"><![CDATA[Hanya contoh membuat font mtz untuk miui rom]]></description>
+</descriptions>
+</theme>
